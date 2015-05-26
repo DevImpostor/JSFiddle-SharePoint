@@ -1,4 +1,4 @@
-Everything before the line containing
+/*
 ---
 name: The Name of the Demo
 description: Some description, please keep it in one line
@@ -17,5 +17,5 @@ resources:
    - https://cdn.datatables.net/plug-ins/a5734b29083/integration/bootstrap/3/dataTables.bootstrap.js
    - https://cdn.datatables.net/responsive/1.0.1/js/dataTables.responsive.js
  normalize_css: no
- ...
-Everything after the lin
+...
+*/
