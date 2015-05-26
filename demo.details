@@ -1,9 +1,16 @@
 name: The Name of the Demo
  description: Some description, please keep it in one line
  authors:
-   - John Doe
-   - Jan Wisniewski
+   - Adam Lepley
  resources:
-   - http://some.url.com/some/file.js
-   - http://other.url.com/other_filename.css
+   - https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js
+   - https://cdn.jsdelivr.net/momentjs/2.9.0/moment.min.js
+   - https://cdn.jsdelivr.net/bootstrap.daterangepicker/1/daterangepicker.js
+   - https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css
+   - https://cdnjs.cloudflare.com/ajax/libs/knockout/3.3.0/knockout-min.js
+   - http://cdn.datatables.net/plug-ins/a5734b29083/integration/bootstrap/3/dataTables.bootstrap.css
+   - http://cdn.datatables.net/responsive/1.0.1/css/dataTables.responsive.css
+   - https://cdn.datatables.net/1.10.2/js/jquery.dataTables.js
+   - https://cdn.datatables.net/plug-ins/a5734b29083/integration/bootstrap/3/dataTables.bootstrap.js
+   - https://cdn.datatables.net/responsive/1.0.1/js/dataTables.responsive.js
  normalize_css: no
